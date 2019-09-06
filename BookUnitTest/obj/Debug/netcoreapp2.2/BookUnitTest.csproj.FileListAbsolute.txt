@@ -1,0 +1,17 @@
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\BookUnitTest.deps.json
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\BookUnitTest.runtimeconfig.json
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\BookUnitTest.runtimeconfig.dev.json
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\BookUnitTest.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\BookUnitTest.pdb
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.csprojAssemblyReference.cache
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.AssemblyInfoInputs.cache
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.AssemblyInfo.cs
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.csproj.CopyComplete
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.dll
+C:\Users\cprasad\source\repos\WebApplication1\BookUnitTest\obj\Debug\netcoreapp2.2\BookUnitTest.pdb
